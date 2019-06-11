@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#keep excessive data files off github
+data/
+
 # mypy
 .mypy_cache/
